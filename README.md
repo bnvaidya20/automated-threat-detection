@@ -4,10 +4,12 @@
 
 This repository contains two comprehensive guides for implementing automated threat detection systems in different environments:
 
-1. [**Securing Smart Buildings: Automated Threat Detection & Mitigation**](docs/automated-threat-smart-building.md)  
+1. [**Securing Smart Buildings: Automated Threat Detection & Mitigation**](docs/automated-threat-smart-building.md) 
+
    Focuses on large-scale commercial buildings with complex IoT ecosystems, featuring AI-driven behavioral analysis and integration with building management systems.
 
 2. [**Lightweight Automated Threat Detection and Migitation for IoT Networks**](docs/lightweight-threat-iot.md)
+
    Provides cost-effective solutions for constrained environments using optimized open-source tools and minimal hardware requirements.
 
 ## Guide Comparison
